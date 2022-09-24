@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(103,229,242);
+    display: grid;
+    grid-template-columns: auto;
+    justify-content: center;
+    align-content: center;
+}
+.main-logo{
+    height: 90vh;
+}
+.main-logo img{
+    width: 20rem;
+    margin-top: 65%; 
+}
